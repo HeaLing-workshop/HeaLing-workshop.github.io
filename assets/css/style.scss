@@ -1,0 +1,44 @@
+---
+---
+
+@import 'jekyll-theme-cayman';
+
+
+.page-header {
+  background: white !important;       /* Wipe all Cayman gradients/images */
+  background-color: white !important; /* Ensure fallback white */
+  background-image: none !important;  /* Remove gradient bg */
+  border-bottom: none !important;     /* Optional: remove line under banner */
+  margin-bottom: 10px;
+}
+
+/* Override Cayman buttons */
+.btn {
+  background-color: rgba(0, 0, 128, 0.2); /* Transparent navy blue */
+  color: #000080; /* Dark navy text */
+  border: 2px solid #000080; /* Navy border */
+  border-radius: 6px;
+  padding: 10px 20px;
+  font-size: 16px;
+  text-decoration: none; /* Remove underline if it's a link */
+  display: inline-block;
+  cursor: pointer;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Hover effect */
+.btn:hover {
+  background-color: #000080; /* Solid navy */
+  color: white; /* Invert text color */
+}
+
+.page-header h1,
+.page-header h2,
+h1, h2, h3, h4, h5, h6 {
+  color: #003366 !important;  /* navy blue */
+}
+
+/* Change main text (paragraphs, lists, etc.) */
+body, p, li {
+  color: black;
+}
