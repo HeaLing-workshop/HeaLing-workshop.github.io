@@ -1,1 +1,3 @@
-# HeaLing.github.io - uses the Cayman theme 
+# HeaLing.github.io
+
+Theme Credits: [Cayman](https://github.com/pages-themes/cayman)
