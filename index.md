@@ -48,19 +48,20 @@ This workshop will provide a forum for researchers studying medical and healthca
 
 **Ericka Johnson** is Professor of Gender and Society at Linköping University, Sweden, whose research explores how medical knowledge, technologies, and bodies are shaped by language and practice. In recent years, she has examined the role of synthetic data in medicine, connecting it to broader questions from feminist science and technology studies about evidence, trust, and the social life of data. By situating synthetic datasets within the history of medical record-keeping and the politics of representation, her work highlights both their promise for innovation and their risks of reinforcing bias or obscuring patient experience.
 
-# Call For Papers
+# Submission Guidelines
 
-Authors are invited to submit original, unpublished research papers by the submission deadline in the following categories:
+Authors are invited to submit original and unpublished research contributions (including surveys, position and theory papers) in the following categories:
 
 - Full Papers — up to 8 pages, presenting substantial, completed research.
 - Short Papers — up to 4 pages, describing ongoing, focused, or preliminary work.
 
-All submissions must be in PDF format and submitted electronically via [OpenReview]()
-Papers should adhere to the ACL formatting guidelines, following the ACL Rolling Review (ARR) Call for Papers [ARR CfP](https://aclrollingreview.org/cfp). Please use the official ACL style templates, available [here](https://github.com/acl-org/acl-style-files).
+All submissions must be in PDF format and submitted electronically via [OpenReview](https://openreview.net/group?id=eacl.org/EACL/2026/Workshop/HeaLing). Papers should adhere to the ACL formatting guidelines, following the ACL Rolling Review (ARR) Call for Papers [ARR CfP](https://aclrollingreview.org/cfp). Please use the official ACL style templates, available [here](https://github.com/acl-org/acl-style-files) (both Word and LaTeX).
 
 Authors of accepted papers must submit their camera-ready versions by the camera-ready deadline. One (1) additional page is allowed for addressing reviewer comments.
 
-The full EACL 2026 Call for Papers is available [here]().
+Papers must be submitted anonymously. We accept submissions either through our own submission page, or via the general ACL Rolling Review. All submissions will undergo double-blind peer review by at least three reviewers, with final acceptance decisions made by the workshop organizers. Accepted papers will be published in the workshop proceedings and presented orally or as posters.
+
+The full EACL 2026 Call for Papers is available [here](/cfp).
 
 # Program Committee
 
@@ -116,7 +117,7 @@ The full EACL 2026 Call for Papers is available [here]().
 If you need to contact the organizers, email us to <healing-workshop@googlegroups.com>
 # Sponsors
 <!--- Add RJ and ActDisease project -->
-This workshop is supported by the [ActDisease project](https://actdisease.org) in Modern History of Medicine at Uppsala University.
+This workshop is supported by the [ActDisease project](https://actdisease.org) in Modern History of Medicine at Uppsala University, Sweden.
 <table class="sponsor-table" cellspacing="0" cellpadding="0" style="margin-top: 20px;">
   <tr>
     <td><img height=75px src="./assets/sponsors/ActDisease.png" /></td>
