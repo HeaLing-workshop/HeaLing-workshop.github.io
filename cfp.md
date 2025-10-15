@@ -10,7 +10,7 @@ co-located with **EACL 2026**, to be held in **Rabat, Morocco**, on **March 24�
 
 ---
 
-### 📌 Important Links 
+### 📌 Important Links
 - **Workshop Website:** [https://healing-workshop.github.io](https://healing-workshop.github.io)  
 - **Contact:** [healing-workshop@googlegroups.com](mailto:healing-workshop@googlegroups.com)  
 - **CFP & Submissions (OpenReview):** [https://openreview.net/group?id=eacl.org/EACL/2026/Workshop/HeaLing](https://openreview.net/group?id=eacl.org/EACL/2026/Workshop/HeaLing)
