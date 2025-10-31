@@ -64,10 +64,11 @@ Papers must be submitted anonymously. We accept submissions either through our o
 The full EACL 2026 Call for Papers is available [here](/cfp).
 
 # Program Committee
-
+- Mathilde Aguiar, Université Paris-Saclay, France
 - Sofía Aguilar, Saarland University, Germany
 - Meriem Beloucif, Uppsala University, Sweden
 - Vera Danilova, Uppsala University, Sweden
+- Hannah Devinney, Linköping University, Sweden
 - Luise Dürlich, RISE Research Institute, Sweden
 - Stefania Degaetano-Ortlieb, Saarland University, Germany
 - Vinu Ekayanake, University of Kentucky, USA
