@@ -66,15 +66,19 @@ The full EACL 2026 Call for Papers is available [here](/cfp).
 # Program Committee
 - Mathilde Aguiar, Université Paris-Saclay, France
 - Sofía Aguilar, Saarland University, Germany
+- Zainab Awan, UTS, Australia
 - Meriem Beloucif, Uppsala University, Sweden
 - Vera Danilova, Uppsala University, Sweden
 - Hannah Devinney, Linköping University, Sweden
+- Simona Doneva, University of Zurich, Switzerland
 - Luise Dürlich, RISE Research Institute, Sweden
 - Stefania Degaetano-Ortlieb, Saarland University, Germany
 - Vinu Ekayanake, University of Kentucky, USA
 - Christina Humphreys, Uppsala University, Sweden
 - Murathan Kurfalı, Stockholm University and RISE Research Institute, Sweden
 - Simon Meoni, Arkhn, France
+- Shufan Ming, University of Illinois Urbana-Champaign, USA
+- José G Moreno, Paul Sabatier University - IRIT, France
 - Lia Shahnazaryan, Paderborn University, Germany
 - Amir Payberah, KTH, Sweden
 - Lidia Pivovarova, University of Helsinki, Finland
