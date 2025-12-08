@@ -46,7 +46,7 @@ This workshop will provide a forum for researchers studying medical and healthca
   </tr>
 </table>
 
-**Kirsten Ostherr**, Gladys Louise Fox Professor of English at Rice University, Houston, USA. She is a leading scholar at the intersection of health communication, data science, and linguistics, focusing especially on computational practices in healthcare. Her research explores how language, technology, and data shape patient experience and medical practice. Drawing on interdisciplinary methods, she examines the promises and pitfalls of AI and digital health technologies, in particular when it comes to patient involvement, equity, and ethics.
+**Kirsten Ostherr**, Gladys Louise Fox Professor of English at Rice University, Houston, USA. She is a leading scholar at the intersection of health communication, data science, and linguistics, focusing especially on computational practices in healthcare. Her research explores how language, technology, and data shape patient experience and medical practice. Drawing on interdisciplinary methods, she examines the promises and pitfalls of AI and digital health technologies, in particular when it comes to patient involvement, equity, and ethics. 
 
 
 <!-- <table cellspacing="0" cellpadding="0">
@@ -64,8 +64,10 @@ This workshop will provide a forum for researchers studying medical and healthca
 
 Authors are invited to submit original and unpublished research contributions (including surveys, position and theory papers) in the following categories:
 
-- Full Papers — up to 8 pages, presenting substantial, completed research.
-- Short Papers — up to 4 pages, describing ongoing, focused, or preliminary work.
+- Full Papers — up to 8 pages, presenting substantial, completed research (plus unlimited references and appendices).
+- Short Papers — up to 4 pages, describing ongoing, focused, or preliminary work (plus unlimited references and appendices).
+
+NOTE: Submissions should be self-contained. Appendices are optional and reviewers are not required to review or download them.
 
 All submissions must be in PDF format and submitted electronically via [OpenReview](https://openreview.net/group?id=eacl.org/EACL/2026/Workshop/HeaLing). Papers should adhere to the ACL formatting guidelines, following the ACL Rolling Review (ARR) Call for Papers [ARR CfP](https://aclrollingreview.org/cfp). Please use the official ACL style templates, available [here](https://github.com/acl-org/acl-style-files) (both Word and LaTeX).
 
