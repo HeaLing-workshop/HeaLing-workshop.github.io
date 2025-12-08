@@ -61,8 +61,8 @@ The workshop will be held as a **half-day event** at EACL 2026.
 We accept **original and unpublished research contributions** (including surveys, position, and theory papers) following the **ACL format**.  
 The ACL Paper Styles are available here: [https://github.com/acl-org/acl-style-files](https://github.com/acl-org/acl-style-files) (both LaTeX and Word).
 
-- **Long papers:** up to 8 pages (+ references)  
-- **Short papers:** up to 4 pages (+ references)
+- **Long papers:** up to 8 pages (+ references and appendices)  
+- **Short papers:** up to 4 pages (+ references and appendices)
 
 Camera-ready versions will be given **one additional page** to address reviewers' comments.  
 Papers must be submitted **anonymously**. We accept submissions either through our **own submission page** or via the **ACL Rolling Review (ARR)**.  
