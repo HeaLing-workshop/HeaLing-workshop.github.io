@@ -92,7 +92,7 @@ The full EACL 2026 Call for Papers is available [here](/cfp).
 - Christina Humphreys, Uppsala University, Sweden
 - Richard Kimera, Makerere University, Uganda
 - Dimitrios Kokkinakis, University of Gothenburg, Sweden
-- Murathan Kurfalı, Stockholm University and RISE Research Institute, Sweden
+- Murathan Kurfalı, RISE Research Institute, Sweden
 - Simon Meoni, Arkhn, France
 - Shufan Ming, University of Illinois Urbana-Champaign, USA
 - José G Moreno, Paul Sabatier University - IRIT, France
