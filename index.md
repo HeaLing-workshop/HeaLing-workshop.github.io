@@ -88,7 +88,9 @@ The full EACL 2026 Call for Papers is available [here](/cfp).
 - Luise Dürlich, RISE Research Institute, Sweden
 - Stefania Degaetano-Ortlieb, Saarland University, Germany
 <!-- - Vinu Ekayanake, University of Kentucky, USA -->
+- Natalia Grabar, French National Centre for Scientific Research, France
 - Christina Humphreys, Uppsala University, Sweden
+- Richard Kimera, Makerere University, Uganda
 - Dimitrios Kokkinakis, University of Gothenburg, Sweden
 - Murathan Kurfalı, Stockholm University and RISE Research Institute, Sweden
 - Simon Meoni, Arkhn, France
@@ -101,6 +103,7 @@ The full EACL 2026 Call for Papers is available [here](/cfp).
 - Lidia Pivovarova, University of Helsinki, Finland
 - Gokul Srinath Seetha Ram, California Polytechnic State University, US
 - Ehud Reiter, University of Aberdeen, UK
+- Rezvaneh Rezapour, Drexel University, USA
 - Roland Roller, German Research Center for Artificial Intelligence, DFKI, Germany
 - Ahmed Ruby, Uppsala University, Sweden
 - Eugenia Rykova, Catholic University of Eichstätt-Ingolstadt, Germany
