@@ -23,10 +23,10 @@ co-located with **EACL 2026**, to be held in **Rabat, Morocco**, on **March 24�
 | Event | Date |
 |-------|------|
 | Direct submission deadline | **December 19, 2025** |
-| Pre-reviewed (ARR) submission deadline | **January 2, 2026** |
+| Pre-reviewed (ARR) submission deadline | **January 5, 2026** |
 | Notification of acceptance | **January 23, 2026** |
 | Camera-ready paper due | **February 3, 2026** |
-| Workshop dates | **March 24–29, 2026** |
+| Workshop date | **March 28, 2026** |
 
 ---
 
@@ -75,9 +75,9 @@ Accepted papers will be **published in the workshop proceedings** and presented 
 ## 👥 Organizing Committee
 
 - **Ylva Söderfeldt**, Uppsala University, Sweden  
-- **Vera Danilova**, Uppsala University, Sweden  
-- **Julia Reed**, University of Vienna, Austria  
-- **Murathan Kurfalı**, RISE Research Institutes of Sweden, Sweden  
+- **Vera Danilova**, Uppsala University, Sweden
+- **Murathan Kurfalı**, RISE Research Institutes of Sweden, Sweden 
+- **Julia Reed**, University of Vienna, Austria   
 - **Gavin Farrell**, University of Padua, Italy  
 
 ---

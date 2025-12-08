@@ -10,7 +10,7 @@ _Tagline:_ Exploring Linguistic Analysis in Medicine and Healthcare: Bridging Hy
 
 (Tentative timeline)
 - ~~First call for workshop papers: October 15, 2025~~
-- ~~Second call for workshop papers**: November 12, 2025~~
+- ~~Second call for workshop papers: November 12, 2025~~
 - ~~Third call for papers: December 5, 2025~~
 - Direct Submission deadline: December 19, 2025
 - [ACL Rolling Review submission deadline](https://aclrollingreview.org/cfp): January 5, 2026
