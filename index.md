@@ -9,14 +9,14 @@ _Tagline:_ Exploring Linguistic Analysis in Medicine and Healthcare: Bridging Hy
 # Important Dates
 
 (Tentative timeline)
-- **First call for workshop papers**: October 15, 2025
-- Second call for workshop papers: November 12, 2025
-- Third call for papers: December 5, 2025
+- ~~First call for workshop papers: October 15, 2025~~
+- ~~Second call for workshop papers**: November 12, 2025~~
+- ~~Third call for papers: December 5, 2025~~
 - Direct Submission deadline: December 19, 2025
-- Pre-reviewed (ARR) submission deadline: January 2, 2026
+- [ACL Rolling Review submission deadline](https://aclrollingreview.org/cfp): January 5, 2026
 - Notification of acceptance: January 23, 2026
 - Camera-ready paper due: February 3, 2026
-- Workshop dates: March 24-29, 2026
+- Workshop date: March 28, 2026
 
 All deadlines are 11:59pm UTC-12 ("anywhere on earth").
 
@@ -39,6 +39,18 @@ This workshop will provide a forum for researchers studying medical and healthca
 
 <table cellspacing="0" cellpadding="0">
   <tr>
+    <td><img src="./assets/keynotes/kirsten-ostherr.jpg" width="360" alt="Kirsten Ostherr" /></td>
+  </tr>
+  <tr>
+    <td><figcaption font-size=10px word-wrap="break-word" width="360" height="auto">Kirsten Ostherr, Rice University, USA</figcaption> </td>
+  </tr>
+</table>
+
+**Kirsten Ostherr**, Gladys Louise Fox Professor of English at Rice University, Houston, USA. She is a leading scholar at the intersection of health communication, data science, and linguistics, focusing especially on computational practices in healthcare. Her research explores how language, technology, and data shape patient experience and medical practice. Drawing on interdisciplinary methods, she examines the promises and pitfalls of AI and digital health technologies, in particular when it comes to patient involvement, equity, and ethics.
+
+
+<!-- <table cellspacing="0" cellpadding="0">
+  <tr>
     <td><img src="./assets/keynotes/photo_erika.webp" width="360" alt="Ericka Johnson" /></td>
   </tr>
   <tr>
@@ -46,7 +58,7 @@ This workshop will provide a forum for researchers studying medical and healthca
   </tr>
 </table>
 
-**Ericka Johnson** is Professor of Gender and Society at Linköping University, Sweden, whose research explores how medical knowledge, technologies, and bodies are shaped by language and practice. In recent years, she has examined the role of synthetic data in medicine, connecting it to broader questions from feminist science and technology studies about evidence, trust, and the social life of data. By situating synthetic datasets within the history of medical record-keeping and the politics of representation, her work highlights both their promise for innovation and their risks of reinforcing bias or obscuring patient experience.
+**Ericka Johnson** Professor of Gender and Society at Linköping University, Sweden. Her research explores how medical knowledge, technologies, and bodies are shaped by language and practice. She examines the role of synthetic data in medicine, connecting it to broader questions from feminist science and technology studies about evidence, trust, and the social life of data. By situating synthetic datasets within the history of medical recordkeeping and the politics of representation, her work highlights both their promise for innovation and their risks of reinforcing bias or obscuring patient experience. -->
 
 # Submission Guidelines
 
@@ -64,7 +76,7 @@ Papers must be submitted anonymously. We accept submissions either through our o
 The full EACL 2026 Call for Papers is available [here](/cfp).
 
 # Program Committee
-- Mathilde Aguiar, Université Paris-Saclay, France
+- Mathilde Aguiar, Université Paris-Saclay, France 
 - Sofía Aguilar, Saarland University, Germany
 - Zainab Awan, UTS, Australia
 - Meriem Beloucif, Uppsala University, Sweden
@@ -73,12 +85,15 @@ The full EACL 2026 Call for Papers is available [here](/cfp).
 - Simona Doneva, University of Zurich, Switzerland
 - Luise Dürlich, RISE Research Institute, Sweden
 - Stefania Degaetano-Ortlieb, Saarland University, Germany
-- Vinu Ekayanake, University of Kentucky, USA
+<!-- - Vinu Ekayanake, University of Kentucky, USA -->
 - Christina Humphreys, Uppsala University, Sweden
+- Dimitrios Kokkinakis, University of Gothenburg, Sweden
 - Murathan Kurfalı, Stockholm University and RISE Research Institute, Sweden
 - Simon Meoni, Arkhn, France
 - Shufan Ming, University of Illinois Urbana-Champaign, USA
 - José G Moreno, Paul Sabatier University - IRIT, France
+- Raymond Ng, National University of Singapore, Singapore
+- Phu Vinh Nguyen, Uppsala University, Sweden
 - Lia Shahnazaryan, Paderborn University, Germany
 - Amir Payberah, KTH, Sweden
 - Lidia Pivovarova, University of Helsinki, Finland
@@ -92,7 +107,12 @@ The full EACL 2026 Call for Papers is available [here](/cfp).
 - Arno Simons, Technische Universität Berlin, Germany
 - Maria Skeppstedt, Stockholm University, Sweden
 - Sara Stymne, Uppsala University, Sweden
-- Karin Verspoor, Melbourne Institute of Technology, Australia
+- Thomas Vakili, Stockholm University, Sweden
+- Karin Verspoor, Melbourne Institute of Technology, Australia 
+- Nathan White, James Cook University, Australia
+- Dongfang Xu, Cedars Sinai Medical Center, USA
+- Xiao Yu Cindy Zhang, University of British Columbia, Canada
+- Robert Östling, Stockholm University, Sweden
 
 # Organizers
 
@@ -123,7 +143,7 @@ The full EACL 2026 Call for Papers is available [here](/cfp).
 
 # Contact
 <!--- google groups -->
-If you need to contact the organizers, email us to <healing-workshop@googlegroups.com>
+For inquiries, please contact us at <healing-workshop@googlegroups.com>
 # Sponsors
 <!--- Add RJ and ActDisease project -->
 This workshop is supported by the [ActDisease project](https://actdisease.org) in Modern History of Medicine at Uppsala University, Sweden.
