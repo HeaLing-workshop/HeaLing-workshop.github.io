@@ -105,6 +105,7 @@ The full EACL 2026 Call for Papers is available [here](/cfp).
 - Ehud Reiter, University of Aberdeen, UK
 - Rezvaneh Rezapour, Drexel University, USA
 - Roland Roller, German Research Center for Artificial Intelligence, DFKI, Germany
+- Thomas Rowlands, University of Nottingham, United Kingdom
 - Ahmed Ruby, Uppsala University, Sweden
 - Eugenia Rykova, Catholic University of Eichstätt-Ingolstadt, Germany
 - Patrick Ruch, University of Applied Sciences, Switzerland
