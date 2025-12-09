@@ -104,11 +104,11 @@ The full EACL 2026 Call for Papers is available [here](/cfp).
 - Lia Shahnazaryan, Paderborn University, Germany
 - Amir Payberah, KTH, Sweden
 - Lidia Pivovarova, University of Helsinki, Finland
-- Gokul Srinath Seetha Ram, California Polytechnic State University, US
+- Gokul Srinath Seetha Ram, California Polytechnic State University, USA
 - Ehud Reiter, University of Aberdeen, UK
 - Rezvaneh Rezapour, Drexel University, USA
 - Roland Roller, German Research Center for Artificial Intelligence, DFKI, Germany
-- Thomas Rowlands, University of Nottingham, United Kingdom
+- Thomas Rowlands, University of Nottingham, UK
 - Ahmed Ruby, Uppsala University, Sweden
 - Eugenia Rykova, Catholic University of Eichstätt-Ingolstadt, Germany
 - Patrick Ruch, University of Applied Sciences, Switzerland
