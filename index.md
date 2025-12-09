@@ -82,6 +82,7 @@ The full EACL 2026 Call for Papers is available [here](/cfp).
 - Sofía Aguilar, Saarland University, Germany
 - Zainab Awan, UTS, Australia
 - Meriem Beloucif, Uppsala University, Sweden
+- Layla Bouzoubaa, Drexel University, USA
 - Vera Danilova, Uppsala University, Sweden
 - Hannah Devinney, Linköping University, Sweden
 - Simona Doneva, University of Zurich, Switzerland
@@ -93,10 +94,12 @@ The full EACL 2026 Call for Papers is available [here](/cfp).
 - Richard Kimera, Makerere University, Uganda
 - Dimitrios Kokkinakis, University of Gothenburg, Sweden
 - Murathan Kurfalı, RISE Research Institute, Sweden
+- Chuyuan Li, University of British Columbia, Canada
+- Han Meng, National University of Singapore
 - Simon Meoni, Arkhn, France
 - Shufan Ming, University of Illinois Urbana-Champaign, USA
 - José G Moreno, Paul Sabatier University - IRIT, France
-- Raymond Ng, National University of Singapore, Singapore
+- Raymond Ng, National University of Singapore
 - Phu Vinh Nguyen, Uppsala University, Sweden
 - Lia Shahnazaryan, Paderborn University, Germany
 - Amir Payberah, KTH, Sweden
@@ -112,11 +115,13 @@ The full EACL 2026 Call for Papers is available [here](/cfp).
 - Diego Saez Trumper, Pompeu Fabra University, Spain
 - Arno Simons, Technische Universität Berlin, Germany
 - Maria Skeppstedt, Stockholm University, Sweden
+- Sarvesh Soni, National Library of Medicine
 - Sara Stymne, Uppsala University, Sweden
 - Thomas Vakili, Stockholm University, Sweden
 - Karin Verspoor, Melbourne Institute of Technology, Australia 
 - Nathan White, James Cook University, Australia
 - Dongfang Xu, Cedars Sinai Medical Center, USA
+- Ke Yang, University of Texas at San Antonio, USA
 - Xiao Yu Cindy Zhang, University of British Columbia, Canada
 - Robert Östling, Stockholm University, Sweden
 
