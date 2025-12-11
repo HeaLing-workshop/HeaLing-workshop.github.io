@@ -121,8 +121,10 @@ The full EACL 2026 Call for Papers is available [here](/cfp).
 - Karin Verspoor, Melbourne Institute of Technology, Australia 
 - Nathan White, James Cook University, Australia
 - Dongfang Xu, Cedars Sinai Medical Center, USA
+- Jinghua Xu, Ruprecht-Karls-Universität Heidelberg, Germany
 - Ke Yang, University of Texas at San Antonio, USA
 - Xiao Yu Cindy Zhang, University of British Columbia, Canada
+- Xingmeng Zhao, University of Colorado Anschutz Medical Campus, USA
 - Robert Östling, Stockholm University, Sweden
 
 # Organizers
