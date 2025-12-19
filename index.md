@@ -18,7 +18,7 @@ _Tagline:_ Exploring Linguistic Analysis in Medicine and Healthcare: Bridging Hy
 - Camera-ready paper due: February 3, 2026
 - Workshop date: March 28, 2026
 
-All deadlines are 11:59pm UTC-12 ("anywhere on earth").
+All deadlines are 11:59pm AoE.
 
 # Workshop Topic and Context
 
@@ -104,6 +104,7 @@ The full EACL 2026 Call for Papers is available [here](/cfp).
 - Lia Shahnazaryan, Paderborn University, Germany
 - Amir Payberah, KTH, Sweden
 - Lidia Pivovarova, University of Helsinki, Finland
+- Ludvig Hult, Uppsala University, Sweden
 - Gokul Srinath Seetha Ram, California Polytechnic State University, USA
 - Ehud Reiter, University of Aberdeen, UK
 - Rezvaneh Rezapour, Drexel University, USA
