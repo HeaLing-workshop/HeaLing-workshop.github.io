@@ -15,8 +15,9 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner" style="padding: 0px;">
-      <img class="background-image" src="assets/header-2026.png" alt="HeaLing: 2bt Workshop on Linguistic Analysis for Health @EACL2026" style='width: 100%; margin-bottom: 10px;'/>
-      <nav>
+      <!-- <img class="background-image" src="assets/header-2026.png" alt="HeaLing: 2bt Workshop on Linguistic Analysis for Health @EACL2026" style='width: 100%; margin-bottom: 10px;'/> -->
+      <img class="background-image" src="{{ '/assets/header-2026.png' | relative_url }}" alt="HeaLing: 2bt Workshop on Linguistic Analysis for Health @EACL2026" style='width: 100%; margin-bottom: 10px;'/>
+      <!-- <nav>
         <a href="/index" class="btn">Home</a>
         <a href="/cfp" class="btn">Call for Papers</a>
         <a href="/index#important-dates" class="btn">Important Dates</a>
@@ -24,6 +25,15 @@
         <a href="/index#submission-guidelines" class="btn">Submission Guidelines</a>
         <a href="/index#program-committee" class="btn">Program Committee</a>
         <a href="/index#contact" class="btn">Contact</a>
+      </nav> -->
+      <nav>
+        <a href="{{ '/' | relative_url }}" class="btn">Home</a>
+        <a href="{{ '/cfp/' | relative_url }}" class="btn">Call for Papers</a>
+        <a href="{{ '/#important-dates' | relative_url }}" class="btn">Important Dates</a>
+        <a href="{{ '/#invited-speakers' | relative_url }}" class="btn">Invited Speakers</a>
+        <a href="{{ '/#submission-guidelines' | relative_url }}" class="btn">Submission Guidelines</a>
+        <a href="{{ '/#program-committee' | relative_url }}" class="btn">Program Committee</a>
+        <a href="{{ '/#contact' | relative_url }}" class="btn">Contact</a>
       </nav>
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
