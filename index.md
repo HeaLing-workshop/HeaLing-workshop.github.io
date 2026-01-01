@@ -82,6 +82,7 @@ The full EACL 2026 Call for Papers is available [here](/cfp).
 - Sofía Aguilar, Saarland University, Germany
 - Zainab Awan, UTS, Australia
 - Meriem Beloucif, Uppsala University, Sweden
+- Abby Blocker, University of Cape Town, South Africa
 - Layla Bouzoubaa, Drexel University, USA
 - Vera Danilova, Uppsala University, Sweden
 - Hannah Devinney, Linköping University, Sweden
@@ -124,6 +125,9 @@ The full EACL 2026 Call for Papers is available [here](/cfp).
 - Dongfang Xu, Cedars Sinai Medical Center, USA
 - Jinghua Xu, Ruprecht-Karls-Universität Heidelberg, Germany
 - Ke Yang, University of Texas at San Antonio, USA
+- Zhicheng Yang, PAII labs, USA
+- Tianlin Zhang, University of Chinese Academy of Sciences, People's Republic of China
+- Marina Zhukova, Microsoft AI
 - Xiao Yu Cindy Zhang, University of British Columbia, Canada
 - Xingmeng Zhao, University of Colorado Anschutz Medical Campus, USA
 - Robert Östling, Stockholm University, Sweden
