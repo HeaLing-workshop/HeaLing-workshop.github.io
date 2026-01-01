@@ -90,6 +90,7 @@ The full EACL 2026 Call for Papers is available [here](/cfp).
 - Luise Dürlich, RISE Research Institute, Sweden
 - Stefania Degaetano-Ortlieb, Saarland University, Germany
 <!-- - Vinu Ekayanake, University of Kentucky, USA -->
+- Manas Gaur, University of Maryland, USA
 - Natalia Grabar, French National Centre for Scientific Research, France
 - Christina Humphreys, Uppsala University, Sweden
 - Richard Kimera, Makerere University, Uganda
