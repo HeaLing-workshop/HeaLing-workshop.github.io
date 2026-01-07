@@ -13,7 +13,7 @@ _Tagline:_ Exploring Linguistic Analysis in Medicine and Healthcare: Bridging Hy
 - ~~Second call for workshop papers: November 12, 2025~~
 - ~~Third call for papers: December 5, 2025~~
 - ~~Direct Submission deadline: December 19, 2025~~
-- [ACL Rolling Review Pre-Reviewed submission deadline](https://aclrollingreview.org/cfp): January 10, 2026
+- [ACL Rolling Review Pre-Reviewed submission deadline](https://openreview.net/group?id=eacl.org/EACL/2026/Workshop/HeaLing/ARR_Commitment): January 10, 2026
 - Notification of acceptance: January 23, 2026
 - Camera-ready paper due: February 3, 2026
 - Workshop date: March 28, 2026
