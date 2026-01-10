@@ -100,6 +100,7 @@ The full EACL 2026 Call for Papers is available [here](/cfp).
 - Han Meng, National University of Singapore
 - Simon Meoni, Arkhn, France
 - Shufan Ming, University of Illinois Urbana-Champaign, USA
+- Seyedali Mohammadi, University of Maryland, USA
 - José G Moreno, Paul Sabatier University - IRIT, France
 - Raymond Ng, National University of Singapore
 - Phu Vinh Nguyen, Uppsala University, Sweden
@@ -118,6 +119,7 @@ The full EACL 2026 Call for Papers is available [here](/cfp).
 - Diego Saez Trumper, Pompeu Fabra University, Spain
 - Arno Simons, Technische Universität Berlin, Germany
 - Maria Skeppstedt, Stockholm University, Sweden
+- Aman Sinha, Lorraine University, France
 - Sarvesh Soni, National Library of Medicine
 - Sara Stymne, Uppsala University, Sweden
 - Thomas Vakili, Stockholm University, Sweden
@@ -147,22 +149,23 @@ The full EACL 2026 Call for Papers is available [here](/cfp).
   <tr>
     <td><img src="./assets/organizers/photo_ylva.jpg" /></td>
     <td><img src="./assets/organizers/photo_vera.jpg" /></td>
+    <td><img src="./assets/organizers/murathan_photo.jpeg" /></td>
     <td><img src="./assets/organizers/photo_julia.jpg" /></td>
     <td><img src="./assets/organizers/gavin_photo.jpeg" /></td>
-    <td><img src="./assets/organizers/murathan_photo.jpeg" /></td>
   </tr>
   <tr>
     <td><figcaption><a href="http://actdisease.org">Ylva Söderfeldt, Uppsala University, Sweden</a></figcaption></td>
     <td><figcaption><a href="http://actdisease.org">Vera Danilova, Uppsala University, Sweden</a></figcaption></td>
+    <td><figcaption><a href="https://aclanthology.org/people/murathan-kurfali/">Murathan Kurfalı, Stockholm University, Sweden</a></figcaption></td>
     <td><figcaption><a href="http://actdisease.org">Julia Reed, University of Vienna, Austria</a></figcaption></td>
     <td><figcaption><a href="https://orcid.org/0000-0001-5166-8551">Gavin Farrell, University of Padua, Italy</a></figcaption></td>
-    <td><figcaption><a href="https://aclanthology.org/people/murathan-kurfali/">Murathan Kurfalı, Stockholm University, Sweden</a></figcaption></td>
   </tr>
 </table>
 
 # Contact
 <!--- google groups -->
 For inquiries, please contact us at <healing-workshop@googlegroups.com>
+
 # Sponsors
 <!--- Add RJ and ActDisease project -->
 This workshop is supported by the [ActDisease project](https://actdisease.org) in Modern History of Medicine at Uppsala University, Sweden.
@@ -171,6 +174,14 @@ This workshop is supported by the [ActDisease project](https://actdisease.org) i
     <td><img height=75px src="./assets/sponsors/ActDisease.png" /></td>
   </tr>
 </table>
+
+## ActDisease
+
+ActDisease works across disciplines and methods to capture the long and broad history of patient organizations in Europe. It combines studies in historical archives and close reading of texts with computer-based analysis of sources.
+
+The study objects are patient organizations in four European countries. They include allergics’ organizations that pushed for the acknowledgment of their ailments as somatic illnesses around 1900, diabetics’ associations that helped enable an advanced self-management regimen from the 1930s, and organizations for neurological diseases that coordinated rehabilitation resources in the 1950s. They all have in common that they issued newsletters, reports, and magazines through which they communicated with their members and wider audiences. By combining close and distant reading of these sources, we aim to shed new light on how patients’ involvement in knowledge generation and decision-making developed over the past century.
+
+ActDisease is funded with an ERC Starting Grant (ERC-2021-STG 101040999), is led by Ylva Söderfeldt and placed at the Department of History of Science and Ideas, Uppsala University, Sweden. It is conducted in close collaboration with the Centre for Digital Humanities and Social Sciences (CDHU) and Centre for Medical Humanities (CMH) at Uppsala University.
 
 # Anti-Harassment Policy
 HeaLing workshop adheres to the [ACL code of ethics](https://www.aclweb.org/portal/content/acl-code-ethics), [ACL code of conduct](https://2024.eacl.org/code/), and 
