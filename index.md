@@ -13,7 +13,7 @@ _Tagline:_ Exploring Linguistic Analysis in Medicine and Healthcare: Bridging Hy
 - ~~Second call for workshop papers: November 12, 2025~~
 - ~~Third call for papers: December 5, 2025~~
 - ~~Direct Submission deadline: December 19, 2025~~
-- [ACL Rolling Review Pre-Reviewed submission deadline](https://openreview.net/group?id=eacl.org/EACL/2026/Workshop/HeaLing/ARR_Commitment): January 10, 2026
+- ~~[ACL Rolling Review Pre-Reviewed submission deadline](https://openreview.net/group?id=eacl.org/EACL/2026/Workshop/HeaLing/ARR_Commitment): January 10, 2026~~
 - Notification of acceptance: January 23, 2026
 - Camera-ready paper due: February 3, 2026
 - Workshop date: March 28, 2026
@@ -151,6 +151,7 @@ The full EACL 2026 Call for Papers is available [here](/cfp).
     <td><img src="./assets/organizers/photo_vera.jpg" /></td>
     <td><img src="./assets/organizers/murathan_photo.jpeg" /></td>
     <td><img src="./assets/organizers/photo_julia.jpg" /></td>
+    <td><img src="./assets/organizers/Andrew_1_v2.jpg" /></td>
     <td><img src="./assets/organizers/gavin_photo.jpeg" /></td>
   </tr>
   <tr>
@@ -158,6 +159,7 @@ The full EACL 2026 Call for Papers is available [here](/cfp).
     <td><figcaption><a href="http://actdisease.org">Vera Danilova, Uppsala University, Sweden</a></figcaption></td>
     <td><figcaption><a href="https://aclanthology.org/people/murathan-kurfali/">Murathan Kurfalı, Stockholm University, Sweden</a></figcaption></td>
     <td><figcaption><a href="http://actdisease.org">Julia Reed, University of Vienna, Austria</a></figcaption></td>
+    <td><figcaption><a href="http://actdisease.org">Andrew Burchell, Uppsala University, Sweden</a></figcaption></td>
     <td><figcaption><a href="https://orcid.org/0000-0001-5166-8551">Gavin Farrell, University of Padua, Italy</a></figcaption></td>
   </tr>
 </table>
