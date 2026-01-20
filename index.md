@@ -151,7 +151,7 @@ The full EACL 2026 Call for Papers is available [here](/cfp).
     <td><img src="./assets/organizers/photo_vera.jpg" /></td>
     <td><img src="./assets/organizers/murathan_photo.jpeg" /></td>
     <td><img src="./assets/organizers/photo_julia.jpg" /></td>
-    <td><img src="./assets/organizers/Andrew_1_v2.jpg" /></td>
+    <td><img src="./assets/organizers/Andrew_1_v2.jpeg" /></td>
     <td><img src="./assets/organizers/gavin_photo.jpeg" /></td>
   </tr>
   <tr>
