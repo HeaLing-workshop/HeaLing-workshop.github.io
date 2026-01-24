@@ -183,7 +183,7 @@ ActDisease works across disciplines and methods to capture the long and broad hi
 
 The study objects are patient organizations in four European countries. They include allergics’ organizations that pushed for the acknowledgment of their ailments as somatic illnesses around 1900, diabetics’ associations that helped enable an advanced self-management regimen from the 1930s, and organizations for neurological diseases that coordinated rehabilitation resources in the 1950s. They all have in common that they issued newsletters, reports, and magazines through which they communicated with their members and wider audiences. By combining close and distant reading of these sources, we aim to shed new light on how patients’ involvement in knowledge generation and decision-making developed over the past century.
 
-ActDisease is funded with an ERC Starting Grant (ERC-2021-STG 101040999), is led by Ylva Söderfeldt and placed at the Department of History of Science and Ideas, Uppsala University, Sweden. It is conducted in close collaboration with the Centre for Digital Humanities and Social Sciences (CDHU) and Centre for Medical Humanities (CMH) at Uppsala University.
+ActDisease project is funded with an ERC Starting Grant (ERC-2021-STG 101040999), is led by Ylva Söderfeldt and placed at the Department of History of Science and Ideas, Uppsala University, Sweden. It is conducted in close collaboration with the Centre for Digital Humanities and Social Sciences (CDHU) and Centre for Medical Humanities (CMH) at Uppsala University.
 
 # Anti-Harassment Policy
 HeaLing workshop adheres to the [ACL code of ethics](https://www.aclweb.org/portal/content/acl-code-ethics), [ACL code of conduct](https://2024.eacl.org/code/), and 
