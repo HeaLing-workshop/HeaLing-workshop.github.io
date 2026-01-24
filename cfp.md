@@ -1,5 +1,6 @@
 ---
 layout: 2026
+title: Call for Papers
 ---
 
 # Main Call for Papers  
