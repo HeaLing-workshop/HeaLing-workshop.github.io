@@ -147,12 +147,12 @@ The full EACL 2026 Call for Papers is available [here](/cfp).
 
 <table class="organizer-table" cellspacing="0" cellpadding="0" style="margin-top: 20px">
   <tr>
-    <td><img src="./assets/organizers/photo_ylva.jpg" /></td>
-    <td><img src="./assets/organizers/photo_vera.jpg" /></td>
-    <td><img src="./assets/organizers/murathan_photo.jpeg" /></td>
-    <td><img src="./assets/organizers/photo_julia.jpg" /></td>
-    <td><img src="./assets/organizers/andrew_photo.jpeg" /></td>
-    <td><img src="./assets/organizers/gavin_photo.jpeg" /></td>
+    <td><img src="{{ '/assets/organizers/photo_ylva.jpg' | relative_url }}" /></td>
+    <td><img src="{{ '/assets/organizers/photo_vera.jpg' | relative_url }}" /></td>
+    <td><img src="{{ '/assets/organizers/murathan_photo.jpeg' | relative_url }}" /></td>
+    <td><img src="{{ '/assets/organizers/photo_julia.jpg' | relative_url }}" /></td>
+    <td><img src="{{ '/assets/organizers/andrew_photo.jpeg' | relative_url }}" /></td>
+    <td><img src="{{ '/assets/organizers/gavin_photo.jpeg' | relative_url }}" /></td>
   </tr>
   <tr>
     <td><figcaption><a href="http://actdisease.org">Ylva Söderfeldt, Uppsala University, Sweden</a></figcaption></td>
