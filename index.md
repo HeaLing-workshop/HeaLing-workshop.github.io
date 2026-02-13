@@ -15,7 +15,7 @@ _Tagline:_ Exploring Linguistic Analysis in Medicine and Healthcare: Bridging Hy
 - ~~Direct Submission deadline: December 19, 2025~~
 - ~~[ACL Rolling Review Pre-Reviewed submission deadline](https://openreview.net/group?id=eacl.org/EACL/2026/Workshop/HeaLing/ARR_Commitment): January 10, 2026~~
 - ~~Notification of acceptance: January 23, 2026~~
-- Camera-ready paper due: February 3, 2026
+- ~~Camera-ready paper due: February 3, 2026~~
 - Workshop date: March 28, 2026
 
 All deadlines are 11:59pm AoE.
@@ -84,21 +84,17 @@ The full EACL 2026 Call for Papers is available [here](/cfp).
 - Meriem Beloucif, Uppsala University, Sweden
 - Abby Blocker, University of Cape Town, South Africa
 - Layla Bouzoubaa, Drexel University, USA
-- Vera Danilova, Uppsala University, Sweden
 - Hannah Devinney, Linköping University, Sweden
 - Simona Doneva, University of Zurich, Switzerland
 - Luise Dürlich, RISE Research Institute, Sweden
 - Stefania Degaetano-Ortlieb, Saarland University, Germany
-<!-- - Vinu Ekayanake, University of Kentucky, USA -->
 - Manas Gaur, University of Maryland, USA
 - Natalia Grabar, French National Centre for Scientific Research, France
 - Christina Humphreys, Uppsala University, Sweden
 - Richard Kimera, Makerere University, Uganda
 - Dimitrios Kokkinakis, University of Gothenburg, Sweden
-- Murathan Kurfalı, RISE Research Institute, Sweden
 - Chuyuan Li, University of British Columbia, Canada
 - Han Meng, National University of Singapore
-- Simon Meoni, Arkhn, France
 - Shufan Ming, University of Illinois Urbana-Champaign, USA
 - Seyedali Mohammadi, University of Maryland, USA
 - José G Moreno, Paul Sabatier University - IRIT, France
