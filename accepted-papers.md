@@ -64,5 +64,3 @@ The list of the accepted papers for the **HeaLing Workshop @ EACL 2026**.
   Wasi Azmine Toushik
 28. **Delayed Wh-Question Development in Children with Hearing Loss: Evidence for Morphosyntactic Vulnerability from Corpus-Based NLP and LLM Analyses**  
   Tong Wu
-29. **Narrative Medicine and Natural Language Processing: A Critical Juncture for Humanistic Health AI**  
-  Kirsten Ostherr
