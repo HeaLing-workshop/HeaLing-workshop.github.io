@@ -37,7 +37,7 @@ The list of the accepted papers for the **HeaLing Workshop @ EACL 2026**.
 14. **Linguistic Features Competitive with Bert! Leveraging Speech for Detection of Mental Health in Paediatric Lupus**  
   Jida Jaffan, Barend Beekhuizen, Andrea Knight
 15. **DementiaBank-Emotion: A Multi-Rater Emotion Annotation Corpus for Alzheimer's Disease Speech (Version 1.0)**  
-  Cheonkam Jeong, Jessica Liao, Audrey Lu, Yutong Song, Christopher Rashidian, Donna Krogh, Erik Krogh, Mahkameh Rasouli
+  Cheonkam Jeong, Jessica Liao, Audrey Lu, Yutong Song, Christopher Rashidian, Donna Krogh, Erik Krogh, Mahkameh Rasouli, Jung-Ah Lee, Nikil Dutt, Lisa Gibbs, David Sultzer, Julie Rousseau, Jocelyn Ludlow, Margaret Galvez, Alexander Nuth, Chet Khay, Sabine Brunswicker, Adeline Nyamathi
 16. **Who Judges the Judge? Evaluating LLM-as-a-Judge for French Medical open-ended QA**  
   Ikram Belmadani, Oumaima El Khettari, Pacôme Constant dit Beaufils, Richard Dufour, Benoit Favre
 17. **Almost Clinical: Linguistic properties of synthetic electronic health records**  
@@ -49,7 +49,7 @@ The list of the accepted papers for the **HeaLing Workshop @ EACL 2026**.
 20. **A Multimodal Framework for Aphasia Severity Classification in Russian**  
   Anastasia Kolmogorova, Ekaterina Yavshits, Anastasia Margolina, Anna Sugian
 21. **Towards Inclusive Communication in Cancer Prevention and Treatment: A Case Study on Italian Informational Materials**  
-  Chiara Cassani, Luca Brigada Villa, Marco Forlano, Serena Coschignano, Amelia Barcellini, Silvia Luraghi, Alberto Gionvanni Leone, Chiara Zanchi
+  Chiara Cassani, Luca Brigada Villa, Marco Forlano, Serena Coschignano, Amelia Barcellini, Silvia Luraghi, Alberto Gionvanni Leone, Chiara Zanchi, Adalberto Lovotti
 22. **Normalizing Health Concepts with Biomedical Embedding and LLMs**  
   Iram Azam, Keyuan Jiang, Gordon Bernard
 23. **Tracking Autism Stigma in Italian Newspapers: A Longitudinal Analysis of Media Discourse (2016–2025)**  
