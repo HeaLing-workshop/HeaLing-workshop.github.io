@@ -11,7 +11,7 @@ The list of the accepted papers for the **HeaLing Workshop @ EACL 2026**.
 1. **Semantic Echo Pathways (SEP): Tracing How Medical Language Propagates and Transforms**  
   Charu Karakkaparambil James, Marcio Monteiro, Sophie Fellenz
 2. **Discourses of Prevention: A Multimodal Study of HPV Vaccination Campaigns in Italy**  
-  Claudia Roberta Combei, Antonio Bianco, Elena Giribaldi, Adalberto Lovotti, Valentina Ghirotto, Marianna Francesca Pasquali, Sara Gemelli, Cassani
+  Claudia Roberta Combei, Antonio Bianco, Elena Giribaldi, Adalberto Lovotti, Valentina Ghirotto, Marianna Francesca Pasquali, Sara Gemelli, Chiara Cassani, Chiara Zanchi
 3. **A Graph-Augmented Liquid Neural Network for Extracting Food Hazards and Disease Outbreaks**  
   Tirthankar Dasgupta, Manjira Sinha, Sudeshna Jana, Diya Saha, Ishan Verma, Vaishali Aggarwal
 4. **Linguistic Blind Spots in Clinical Decision Extraction**  
