@@ -31,4 +31,5 @@ Kirsten Ostherr
 7. **Position: Biomedical NLP Demands Specialization, Not Generalization**
 
 **17:15–17:30 – Closing Discussion**
+
 **17:30–18:00 – Poster Session (cont.)**
