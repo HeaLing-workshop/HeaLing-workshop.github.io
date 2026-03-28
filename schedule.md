@@ -20,9 +20,9 @@ Kirsten Ostherr
 2. **Do Mixed-Vendor Multi-Agent LLMs Improve Clinical Diagnosis?**
 3. **A Graph-Augmented Liquid Neural Network for Extracting Food Hazards and Disease Outbreaks**
 
-**15:45–16:00 – Coffee Break & Poster Discussions**
+**15:45–16:15 – Coffee Break & Poster Discussions**
 
-**16:00–17:00 – Oral Session 2**  
+**16:15–17:00 – Oral Session 2**  
 *4 presentations, 15 minutes per presentation including questions*
 
 4. **Linguistic Blind Spots in Clinical Decision Extraction**
