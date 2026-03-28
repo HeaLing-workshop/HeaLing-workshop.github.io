@@ -21,7 +21,7 @@ Kirsten Ostherr
 3. **A Graph-Augmented Liquid Neural Network for Extracting Food Hazards and Disease Outbreaks**
 
 **~~15:45–16:15 – Coffee Break & Poster Discussions~~**
-**15:45–16:00 – Coffee Break**
+**15:45–16:00 – Coffee Break (Posterboards 44 - 61)**
 
 **16:00–17:00 – Oral Session 2**  
 *4 presentations, 15 minutes per presentation including questions*
@@ -33,4 +33,4 @@ Kirsten Ostherr
 
 **17:00–17:15 – Closing Discussion**
 
-**17:15-18:00 – Poster Discussions (44 - 61)**
+**17:15-18:00 – Poster Discussions**
