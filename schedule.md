@@ -22,7 +22,7 @@ Kirsten Ostherr
 
 **15:45–16:15 – Coffee Break & Poster Discussions**
 
-**16:15–17:00 – Oral Session 2**  
+**16:15–17:15 – Oral Session 2**  
 *4 presentations, 15 minutes per presentation including questions*
 
 4. **Linguistic Blind Spots in Clinical Decision Extraction**
