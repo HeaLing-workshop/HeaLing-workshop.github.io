@@ -34,4 +34,4 @@ Kirsten Ostherr
 
 **17:00–17:15 – Closing Discussion**
 
-**17:15-18:00 – Poster Discussions**
+**17:15-18:00 – Poster Session**
